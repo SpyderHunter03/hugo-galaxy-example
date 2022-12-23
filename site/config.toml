@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://galaxy.tristangoetz.me"
 title = "Galaxy | Hugo Personal Blog template"
-theme = "galaxy-hugo"
+theme = "galaxy"
 # post pagination
 paginate = "3"
 # post excerpt
